@@ -15,4 +15,6 @@ vless://6f4d4cda-cd4a-4741-8167-9cd0714a251b@104.24.250.215:80?path=%2F%3Fed%3D2
 vless://6f4d4cda-cd4a-4741-8167-9cd0714a251b@104.24.250.215:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=black.mshafeieniya.workers.dev&fp=randomized&type=ws&sni=black.mshafeieniya.workers.dev#worker3
 vless://6f4d4cda-cd4a-4741-8167-9cd0714a251b@104.16.223.167:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=black.mshafeieniya.workers.dev&type=ws#worker2
 vless://6f4d4cda-cd4a-4741-8167-9cd0714a251b@black.mshafeieniya.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=black.mshafeieniya.workers.dev&fp=randomized&type=ws&sni=black.mshafeieniya.workers.dev#worker1
+vless://5320d9a8-8ccb-4e79-a4ca-76abf1bc06cb@about.canva.com:443?path=%2Ffasdf%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=vlEss-wS-Tls.blAck3.onflashdRive.app.&fp=firefox&type=ws&sni=vlEss-wS-Tls.blAck3.onflashdRive.app.#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%D8%8C%D8%A2%D9%BE%D9%84%D9%88%D8%AF+%D9%88+%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D8%AE%D9%88%D8%A8
+
 
