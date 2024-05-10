@@ -6,4 +6,6 @@ vless://bcb74442-2502-4c55-b0c2-0f80e555e397@[2a0b:4140:668c::2]:2083?type=grpc&
 vless://f4d917d2-281e-4c01-a7a5-daeae1d5e429@panahiyan.faezeshafeieniya.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=panahiyan.faezeshafeieniya.workers.dev&fp=randomized&type=ws&sni=panahiyan.faezeshafeieniya.workers.dev#black2
 trojan://gXQFZRoAKM@104.17.241.25:8443?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=Dl.amoOzeShgah-bArgh.onlInE.#t-g-t-1-s-man3-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://c5039307-4798-4b2b-a174-6b6482e6ef45@104.17.241.25:2096?type=ws&path=%2Ffasdf%3Fed%3D2048&host=&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=irAn.mRbl69.lOl.#v-w-t-1-s-man4-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
+vless://0467277d-3119-4f63-bf22-688ce1a213d4@fake.farted.net:11616?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=_Myb5zJF_GpqG_6_q0i6JiTZqhhel1MpRKIiLflccQA&fp=firefox&sni=www.sourceforge.net&sid=206e4a13&spx=%2F#k1-5
+vless://992d5756-9e21-4062-bbfc-9bc40b3ae205@104.17.241.25:2053?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=cdN1.niGht-druGstore.lOl.#k%201-1~%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 
