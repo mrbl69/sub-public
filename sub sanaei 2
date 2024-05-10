@@ -11,4 +11,5 @@ trojan://gXQFZRoAKM@104.17.241.25:8443?type=grpc&serviceName=&authority=&mode=mu
 trojan://gXQFZRoAKM@136.244.84.44:8443?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=Dl.amoOzeShgah-bArgh.onlInE.#t-g-t-1-s-man3-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 trojan://gXQFZRoAKM@104.31.16.65:443?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=Dl.amoOzeShgah-bArgh.onlInE.#t-g-t-1-s-man3-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://4d2a5db9-579d-4d5d-bf98-c12d4d29d21a@shiRaz.mRbl69.LOL.:443?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=shiRaz.mRbl69.LOL.#shiraz-z1
+vless://4d2a5db9-579d-4d5d-bf98-c12d4d29d21a@shiRaz.mRbl69.LOL.:443?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=shiRaz.mRbl69.LOL.#shiraz-z1
 
