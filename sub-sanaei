@@ -36,4 +36,6 @@ vless://f4d917d2-281e-4c01-a7a5-daeae1d5e429@panahiyan.faezeshafeieniya.workers.
 vless://f4d917d2-281e-4c01-a7a5-daeae1d5e429@panahiyan.faezeshafeieniya.workers.dev:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=panahiyan.faezeshafeieniya.workers.dev&fp=randomized&type=ws&sni=panahiyan.faezeshafeieniya.workers.dev#black2
 vless://f4d917d2-281e-4c01-a7a5-daeae1d5e429@panahiyan.faezeshafeieniya.workers.dev:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=panahiyan.faezeshafeieniya.workers.dev&fp=randomized&type=ws&sni=panahiyan.faezeshafeieniya.workers.dev#black2
 vless://77e77973-4c6a-4f0f-87f0-1bc91d228563@iranseRver.cOm:2083?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=dL3.nIght-druGstore.lOl.#Filter-F-man1
+vless://d1d72692-953b-4933-8e4e-9b1fcc6720c3@ipV6-saNaei.mRbl69.lOl.:2096?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=ipV6-saNaei.mRbl69.lOl.#man-ipv6~%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://d1d72692-953b-4933-8e4e-9b1fcc6720c3@[2606:4700::6810:8085]:2096?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=ipV6-saNaei.mRbl69.lOl.#man-ipv6~%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
