@@ -1,4 +1,4 @@
-vless://6f4d4cda-cd4a-4741-8167-9cd0714a251b@worker-test1.mohamadrezashafeieniya.workers.dev:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=black.mshafeieniya.workers.dev&fp=randomized&type=ws&sni=black.mshafeieniya.workers.dev#black
+
 vless://c6771374-dfc9-469a-a83c-16ecd9b6e74c@www.gov.se:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=mamalworker.katooniblack.workers.dev&type=ws#Misaka-workers
 vless://c6771374-dfc9-469a-a83c-16ecd9b6e74c@www.gov.se:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mamalworker.katooniblack.workers.dev&fp=randomized&type=ws&sni=mamalworker.katooniblack.workers.dev#Misaka-workers-TLS
 vless://c6771374-dfc9-469a-a83c-16ecd9b6e74c@www.gov.se:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mamalworker.katooniblack.workers.dev&fp=randomized&type=ws&sni=mamalworker.katooniblack.workers.dev#Misaka-workers-TLS
