@@ -55,5 +55,9 @@ vless://2fc5d9b4-8017-4b40-9faa-8ba87baeec34@fake3-77.zanity.net:443?encryption=
 trojan://2fc5d9b4-8017-4b40-9faa-8ba87baeec34@fake3-77.zanity.net:2087?security=tls&sni=fake3-77.zanity.net&alpn=h2&fp=chrome&type=grpc&serviceName=nuCCGizailaebOVVDlsVBw5&mode=gun#ghadimi%20tls%20grpc%20direct%20trojan
 vless://2fc5d9b4-8017-4b40-9faa-8ba87baeec34@afrasiyab.dns-dynamic.net:2087?encryption=none&security=tls&sni=afrasiyab.dns-dynamic.net&alpn=h2&fp=chrome&type=grpc&serviceName=380baMawmilaebOVVDlsVBw5&mode=gun#cloudns1%20tls%20grpc%20direct%20vless
 trojan://2fc5d9b4-8017-4b40-9faa-8ba87baeec34@afrasiyab.dns-dynamic.net:2096?security=tls&sni=afrasiyab.dns-dynamic.net&alpn=h2&fp=chrome&type=grpc&serviceName=nuCCGizailaebOVVDlsVBw5&mode=gun#cloudns1%20tls%20grpc%20direct%20trojan
+vless://7f9fca70-c7b3-4dce-8481-65798fa08b41@iranserver.com:80?type=tcp&path=%2FcdiYikL8UbFWPm42&headerType=http&security=none#%D8%AA%D9%85%D8%A7%D9%85%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-man-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84-ipv4
+vless://7f9fca70-c7b3-4dce-8481-65798fa08b41@[2a0b:4140:668c::2]:80?type=tcp&path=%2FcdiYikL8UbFWPm42&headerType=http&security=none#%D8%AA%D9%85%D8%A7%D9%85%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-man-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84-ipv6
+vless://77e77973-4c6a-4f0f-87f0-1bc91d228563@[2a0b:4140:668c::2]:2083?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=dL3.nIght-druGstore.lOl.#Filter-F-man1
+vless://77e77973-4c6a-4f0f-87f0-1bc91d228563@iranseRver.cOm:2083?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=dL3.nIght-druGstore.lOl.#Filter-F-man1
 
 
