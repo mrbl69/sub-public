@@ -27,4 +27,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInctMjA4MiIsDQogICJhZGQiOiAiZ2FNYS5JciIs
 vless://548e3d58-676d-41e8-b284-79219c6f9ce8@104.27.29.101:2095?encryption=none&security=none&type=ws&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.dampeZeshki-pEt.Ir.&path=%2Ftelegram-%40Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2CMmdv2rayng-V2rayngmmd-telegram-mehran-v2ray%3Fed%3D2056#man-ir
 vless://c95f3744-6c6d-46ba-80bd-15a451d5bf85@zula.ir:80?encryption=none&security=none&type=ws&host=dl3.dampezeshki-pet.ir&path=%2F#ir-ws-http
 vless://8d2c4c2f-b52a-4e08-9d8b-f208793940f5@zula.ir:80?encryption=none&security=none&type=ws&host=dl.dampezeshki-pet.ir&path=%2F#%D8%B3%DB%8C%20%D8%AF%DB%8C%20%D8%A7%D9%86%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84.ir
+vless://0be8c420-bbc1-4f08-b606-1eba9edcde4f@zula.ir:80?type=ws&path=%2F&host=http3.alame-tabatabaei.lol&security=none#CDN-3-HTTP-3
 
