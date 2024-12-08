@@ -1,2 +1,1 @@
-vless://80cbd45d-4784-48f7-b666-c618c81465fe@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&fp=firefox&type=ws&host=www.pizzapasha.ir&path=%2F%3Fed%3D1024#fastly
-vless://80cbd45d-4784-48f7-b666-c618c81465fe@dns-fastly.dampezeshki-pet.ir:80?encryption=none&security=none&type=ws&host=www.pizzapasha.ir&path=%2F#fastly
+
