@@ -1,0 +1,7 @@
+vless://121c9a1b-bf71-4601-a91f-c9f7fe489fb7@zula.ir:2052?encryption=none&security=none&type=httpupgrade&host=www.tosan.com-love.ir.dampezeshki-pet.ir.&path=%2F%3Fed%3D1024#http%20upgrade
+vless://80cbd45d-4784-48f7-b666-c618c81465fe@dns-fastly.dampezeshki-pet.ir:80?encryption=none&security=none&type=ws&host=www.pizzapasha.ir&path=%2F#fastly
+vless://80cbd45d-4784-48f7-b666-c618c81465fe@dns-fastly.dampezeshki-pet.ir:80?encryption=none&security=none&type=ws&host=www.pizzapasha.ir&path=%2F%3Fed%3D1024#fastly
+vless://80cbd45d-4784-48f7-b666-c618c81465fe@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=ws&host=www.pizzapasha.ir&path=%2F%3Fed%3D1024#fastly
+vless://80cbd45d-4784-48f7-b666-c618c81465fe@live.skornorth.com:443?encryption=none&security=tls&sni=live.skornorth.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=ws&host=www.pizzapasha.ir&path=%2F%3Fed%3D1024#fastly
+vless://80cbd45d-4784-48f7-b666-c618c81465fe@live.wkrq.com:443?encryption=none&security=tls&sni=live.wkrq.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=ws&host=www.pizzapasha.ir&path=%2F%3Fed%3D1024#fastly
+vless://7929c9ac-4477-4b26-91b8-62e06a40350c@[2a12:5940:c73a::2]:50893?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#man-ipv6-new
