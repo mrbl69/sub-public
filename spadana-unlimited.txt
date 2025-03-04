@@ -1,0 +1,1 @@
+vless://84125ad0-c882-4c41-bb4a-a9497085c7f4@zaheDan.dns-dynaMic.nEt:12988?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=zaheDan.dNs-dynaMic.nEt.#spadana-unlimited
