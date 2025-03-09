@@ -1,0 +1,1 @@
+vless://44a4bdef-ce73-4cb3-83b0-393263c48f64@zaheDan.dns-dynaMic.nEt:12988?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=zaheDan.dNs-dynaMic.nEt.#Mr.Hadadi
