@@ -1,0 +1,1 @@
+vless://5bbdbaee-c770-44b9-a7a7-b59e4971920b@zaheDan.dns-dynaMic.nEt:12988?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=zaheDan.dNs-dynaMic.nEt.#Ghazale%20Mansuri
