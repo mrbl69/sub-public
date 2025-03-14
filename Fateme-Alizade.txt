@@ -1,1 +1,2 @@
 vless://767ae623-a3e7-4380-a0c0-d89368b792d6@zaheDan.dns-dynaMic.nEt:12988?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=zaheDan.dNs-dynaMic.nEt.#Fateme%20Alizade
+vless://65c8247b-fa55-4b29-b54b-b15da742b80c@81.28.12.12:80?type=ws&path=%2Fws&host=gholibirahm.com&security=none#Fateme%20Alizade2
