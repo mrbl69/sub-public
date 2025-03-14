@@ -1,2 +1,3 @@
 vless://e5e4bdf8-983f-4756-93af-b6e4e18100c3@zaheDan.dns-dynaMic.nEt:12988?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=zaheDan.dNs-dynaMic.nEt.#Zahra%20Khaniyan
 vless://b77f92ff-b120-4de9-b670-4efa16774ab5@81.28.12.12:80?type=ws&path=%2Fws&host=gholibirahm.com&security=none#Zahra%20Khaniyan2
+vless://989e322b-bcad-4538-ba76-7307274e23a6@borj.atisaz.lol:14316?type=kcp&headerType=wireguard&seed=BLKRh0anWb&security=none#Zahra%20Khaniyan3
