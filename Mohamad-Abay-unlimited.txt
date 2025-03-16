@@ -2,3 +2,8 @@ vless://84125ad0-c882-4c41-bb4a-a9497085c7f4@zaheDan.dns-dynaMic.nEt:12988?type=
 vless://c9308723-604c-47b2-a6a3-8c3f63838225@81.28.12.12:80?type=ws&path=%2Fws&host=gholibirahm.com&security=none#Mohamad%20Abay-unlimited2
 vless://522b251b-ebb5-4451-8611-377c23c9d2aa@borj.atisaz.lol:14316?type=kcp&headerType=wireguard&seed=BLKRh0anWb&security=none#Mohamad%20Abay-unlimited3
 vless://73b1840d-c4c8-4a4e-9cd5-bf9181c0d219@fakemci1.bot.nu:29955?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=DB1sr8nnkBH6fN1kE8Eqp_HEi9hsVjG1bHtmaSrozQA&fp=firefox&sni=www.zula.ir&sid=aa7d0747&spx=%2F#Mohamad%20Abay-unlimited.F-man2
+vless://8c89a54f-7809-4713-a4e8-40f416249e7e@dns-fastly.dampezeshki-pet.ir:80?type=ws&path=%2F%3Fed%3D1024&host=www.pizzapasha.ir&security=none#Mohamad%20Abay-unlimited5.fastly
+vless://8c89a54f-7809-4713-a4e8-40f416249e7e@techgcmaforum.com:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.pizzapasha.ir&type=ws#Mohamad%20Abay-unlimited5.fastly
+vless://8c89a54f-7809-4713-a4e8-40f416249e7e@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.pizzapasha.ir&type=ws#Mohamad%20Abay-unlimited5.fastly
+vless://8c89a54f-7809-4713-a4e8-40f416249e7e@rasmus.app:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.pizzapasha.ir&type=ws#Mohamad%20Abay-unlimited5.fastly
+vless://8c89a54f-7809-4713-a4e8-40f416249e7e@live.wkrq.com:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.pizzapasha.ir&type=ws#Mohamad%20Abay-unlimited5.fastly
