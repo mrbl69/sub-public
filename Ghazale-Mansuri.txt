@@ -1,3 +1,4 @@
 vless://5bbdbaee-c770-44b9-a7a7-b59e4971920b@zaheDan.dns-dynaMic.nEt:12988?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=zaheDan.dNs-dynaMic.nEt.#Ghazale%20Mansuri
 vless://b091961b-88ff-47c6-8347-0074feb2627b@81.28.12.12:80?type=ws&path=%2Fws&host=gholibirahm.com&security=none#Ghazale%20Mansuri2
 vless://de187356-8848-445b-a10f-f663095b4891@borj.atisaz.lol:14316?type=kcp&headerType=wireguard&seed=BLKRh0anWb&security=none#Ghazale%20Mansuri3
+vless://e77e648d-3bc7-4a50-8a29-aaeb76f1c2be@farvardin.justlearning.net:11616?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=_Myb5zJF_GpqG_6_q0i6JiTZqhhel1MpRKIiLflccQA&fp=firefox&sni=www.sourceforge.net&sid=206e4a13&spx=%2F#Ghazale%20Mansuri4
