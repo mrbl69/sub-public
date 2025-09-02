@@ -1,0 +1,5 @@
+vless://52cabc8d-4bc8-4783-9487-bb06a21295b5@81.28.12.12:80?type=ws&path=%2F&host=iranian-style.com&security=none#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D9%86%20%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84-mori1
+vless://a3ad91ee-0f56-40c9-9b2c-b6d057faba25@81.28.12.12:80?type=ws&path=%2F&host=gholibirahm.com&security=none#%D9%82%D9%84%DB%8C%20%D8%A8%DB%8C%D8%B1%D8%AD%D9%85-mori2
+vless://c0fba11c-9c4c-4dbf-b504-2ad8c34f78b8@v4.mrbl69.dynv6.net:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=oaLwND9NAMfntVPtmSaG2H7sD6uQJFAKKE3fl8NWoSs&fp=firefox&sni=www.sourceforge.net&sid=c6&spx=%2F#Reality1-mori3
+vless://df220080-7a70-4a08-8f63-5d41c676a6d0@mrbl69.dynv6.net:52282?type=tcp&security=none#IPV6-mori4-ipv6
+vless://d263d4cb-f3ef-42ab-800c-b596ac55fb30@v4.mrbl69.dynv6.net:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-mori5-grpc
