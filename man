@@ -5,4 +5,4 @@ vless://2e7c3321-9718-4e74-be8f-50d26d517ba0@81.28.12.12:80?type=ws&path=%2F&hos
 vless://bbf0148a-3632-4e84-b5d3-db55ad91b7df@v4.mrbl69.dynv6.net:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=oaLwND9NAMfntVPtmSaG2H7sD6uQJFAKKE3fl8NWoSs&fp=firefox&sni=www.sourceforge.net&sid=c6&spx=%2F#Reality1-man-Reality1
 vless://7c6d3f39-55e2-4019-b898-6a7b60e28da8@mrbl69.dynv6.net:52282?type=tcp&security=none#IPV6-man-IPV6-ipv6
 vless://9e4e6c3b-a5cc-4e77-82fc-5fa99da7be56@v4.mrbl69.dynv6.net:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-man-grpc-grpc
-vless://e1683d91-adba-489a-aa4c-4896033b02ff@dl.mrbl69.ir:12689?type=httpupgrade&path=%2F&host=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=dl.mrbl69.ir#HTTP%20Upgrade-HTTP%20Upgrade-man
+vless://e1683d91-adba-489a-aa4c-4896033b02ff@dl.mrbl69.ir:12689?type=httpupgrade&path=%2F&host=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=dl.mrbl69.ir#HTTP%20Upgrade-man
