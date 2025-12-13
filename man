@@ -5,6 +5,6 @@ vless://2e7c3321-9718-4e74-be8f-50d26d517ba0@81.28.12.12:80?type=ws&path=%2F&hos
 vless://bbf0148a-3632-4e84-b5d3-db55ad91b7df@best.privatedns.org:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZugjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-man-Reality1
 vless://48a7a9ed-a5ee-4e0c-b1ce-30d1da23d89d@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-man-IPV6-ipv6
 vless://9e4e6c3b-a5cc-4e77-82fc-5fa99da7be56@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-man-grpc-grpc
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cERwdlpQN0MzbjlIUUFkNW1WS3BDSUJjSWhvem9BQkpDellLSnRHcUxzOD06SWlXYXh5MGR2dUJ6cjAzN2h3VFFaQzJwRXFZQlNRTGx6Q1NHTEIwNTVhQT0@sanaei1-free.ohbah.com:54897?type=ws&path=%2F&host=#shadowsocks-man-shadowsocks
+vless://dff0351f-82bf-4fd7-b620-c626cb04686f@best.privatedns.org:21614?type=ws&path=%2F&host=&security=none#websocket-man-ws
 vless://e1683d91-adba-489a-aa4c-4896033b02ff@dl.mrbl69.ir:12689?type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=dl.mrbl69.ir#TCP-man
 vless://dff0351f-82bf-4fd7-b620-c626cb04686f@best.privatedns.org:21614?type=ws&path=%2F&host=&security=none#websocket-man-ws
