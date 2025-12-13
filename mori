@@ -5,3 +5,4 @@ vless://df220080-7a70-4a08-8f63-5d41c676a6d0@[2a01:e5c0:6fbf::2]:52282?type=tcp&
 vless://d263d4cb-f3ef-42ab-800c-b596ac55fb30@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-mori5-grpc
 vless://16c147a5-f246-4a49-b00a-8de2a22173a6@zahedan.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=zahedan.dns-dynamic.net#zahedan.dns-mori-zahedan
 vless://69cd9186-3d6f-4b10-9b99-89854a16f11f@dl.mrbl69.ir:12689?type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=dl.mrbl69.ir#TCP-mori-ir
+vless://623525ae-d17c-4f1e-9e24-6be068346f56@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-mori-httpupgrade
