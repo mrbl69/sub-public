@@ -3,3 +3,4 @@ vless://354dc144-074f-4fe1-9bce-5b1e74bb4fd2@81.28.12.12:80?type=ws&path=%2F&hos
 vless://4d1eaf71-d482-435b-99c5-605e1ca0482c@v4.mrbl69.dynv6.net:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=oaLwND9NAMfntVPtmSaG2H7sD6uQJFAKKE3fl8NWoSs&fp=firefox&sni=www.sourceforge.net&sid=c6&spx=%2F#Reality1-zeynab3
 vless://44dd0109-5aa5-4157-9c7e-35f83a0929e4@mrbl69.dynv6.net:52282?type=tcp&security=none#IPV6-zeynab4-ipv6
 vless://b96dbb62-8351-4024-a585-636ff31e61ad@v4.mrbl69.dynv6.net:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-zeynab5-grpc
+vless://f012e802-9c77-4f4d-8f96-6ef8098a19eb@zahedan.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=zahedan.dns-dynamic.net#zahedan.dns-zeynab-zahedan
