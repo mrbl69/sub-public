@@ -4,4 +4,4 @@ vless://e43ba8d9-8fac-433a-876a-8f7ed43d40e4@81.28.12.12:80?type=ws&path=%2F&hos
 vless://604c840a-68ee-427e-b2d4-aaaf30e5bd74@v4.mrbl69.dynv6.net:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=oaLwND9NAMfntVPtmSaG2H7sD6uQJFAKKE3fl8NWoSs&fp=firefox&sni=www.sourceforge.net&sid=c6&spx=%2F#Reality1-soli4
 vless://27ed567b-38c7-49ce-b817-46e33fdbd5e8@mrbl69.dynv6.net:52282?type=tcp&security=none#IPV6-soli5-ipv6
 vless://7291a155-2dde-4bca-8ebb-921f66c80e01@v4.mrbl69.dynv6.net:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-soli6-grpc
-vless://ed98414a-bb84-4d2e-a788-ae847c46ad57@zahedan.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=zahedan.dns-dynamic.net#zahedan.dns-soli-zahedan
+
