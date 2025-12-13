@@ -3,3 +3,4 @@ vless://172ff1e1-0732-49c3-99f4-7970afe4866e@81.28.12.12:80?type=ws&path=%2F&hos
 vless://7a8abe32-7ec2-445e-ad58-3730303c562e@best.privatedns.org:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZugjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-madar-mori3
 vless://fca6c5a8-298f-409a-846b-75c9aa7c797a@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-madar-mori4-ipv6
 vless://17dfac83-da7f-48b2-ba00-c20ad317388c@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-madar-mori5-grpc
+vless://01b2e62c-ed76-4497-bd10-ce47577d48ca@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-madar-mori-httpupgrade
