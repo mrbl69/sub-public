@@ -3,5 +3,5 @@ vless://06da7c1f-1e4c-459c-8ea6-9f19beac9623@81.28.12.12:80?type=ws&path=%2F&hos
 vless://013503b1-7edb-458e-b4e5-7f03ae571a2b@best.privatedns.org:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZugjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-soheil2
 vless://57d61669-35cc-44ed-918f-a516b991247f@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-soheil3-ipv6
 vless://4bea80d0-51c5-40b6-8dc9-3f013211612d@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-soheil4-grpc
-
+vless://5b71dd45-f3c2-465e-b694-7f2daed6cd4a@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-soheil-httpupgrade
 
