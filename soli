@@ -4,4 +4,4 @@ vless://e43ba8d9-8fac-433a-876a-8f7ed43d40e4@81.28.12.12:80?type=ws&path=%2F&hos
 vless://604c840a-68ee-427e-b2d4-aaaf30e5bd74@best.privatedns.org:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZugjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-soli4
 vless://27ed567b-38c7-49ce-b817-46e33fdbd5e8@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-soli5-ipv6
 vless://7291a155-2dde-4bca-8ebb-921f66c80e01@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-soli6-grpc
-
+vless://25e2c41e-0394-449d-ba56-450fcab166e9@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-soli-httpupgrade
