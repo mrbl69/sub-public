@@ -3,5 +3,5 @@ vless://2bcfea1b-d0bb-4319-afca-efb5cd29f890@81.28.12.12:80?type=ws&path=%2F&hos
 vless://f7c1d9ec-8527-4bf2-9d4c-eccd8c94d9de@best.privatedns.org:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZugjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-reza3
 vless://0293b089-08dc-4e3a-9e13-72568619c405@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-reza4-ipv6
 vless://2e9c1914-c41d-4d1c-b8db-af15ad008722@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-reza5-grpc
-
+vless://0a2867ae-a5de-4b16-9901-affc75ebad78@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-reza-httpupgrade
 
