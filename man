@@ -1,7 +1,7 @@
 vless://b1840f07-6100-4871-97df-0e37b9649867@zahedan.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=zahedan.dns-dynamic.net#zahedan.dns-man1
 vless://447e07da-1dcc-474d-927a-3dd837f6cb2d@81.28.12.12:80?type=ws&path=%2F&host=torshonline.com&security=none#%D8%AA%D8%B1%D8%B4%20%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-man2
 vless://457badc2-3f51-4171-9ac6-ec2830a46cb0@81.28.12.12:80?type=ws&path=%2F&host=iranian-style.com&security=none#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D9%86%20%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84-man3
-vless://2e7c3321-9718-4e74-be8f-50d26d517ba0@81.28.12.12:80?type=ws&path=%2F&host=gholibirahm.com&security=none#%D9%82%D9%84%DB%8C%20%D8%A8%DB%8C%D8%B1%D8%AD%D9%85-man4pc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZug
+vless://2e7c3321-9718-4e74-be8f-50d26d517ba0@81.28.12.12:80?type=ws&path=%2F&host=gholibirahm.com&security=none#%D9%82%D9%84%DB%8C%20%D8%A8%DB%8C%D8%B1%D8%AD%D9%85-man4
 vless://bbf0148a-3632-4e84-b5d3-db55ad91b7df@best.privatedns.org:39403?type=grjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-man-Reality1
 vless://48a7a9ed-a5ee-4e0c-b1ce-30d1da23d89d@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-man-IPV6-ipv6
 vless://9e4e6c3b-a5cc-4e77-82fc-5fa99da7be56@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-man-grpc-grpc
