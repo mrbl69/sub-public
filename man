@@ -7,4 +7,4 @@ vless://48a7a9ed-a5ee-4e0c-b1ce-30d1da23d89d@[2a01:e5c0:6fbf::2]:52282?type=tcp&
 vless://9e4e6c3b-a5cc-4e77-82fc-5fa99da7be56@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-man-grpc-grpc
 vless://dff0351f-82bf-4fd7-b620-c626cb04686f@best.privatedns.org:21614?type=ws&path=%2F&host=&security=none#websocket-man-ws
 vless://e1683d91-adba-489a-aa4c-4896033b02ff@dl.mrbl69.ir:12689?type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=dl.mrbl69.ir#TCP-man
-ss://YWVzLTI1Ni1nY206S2h2bE9rWWI1NXJLTjJiQ2lGdEM3SkVxWXZCQ3hlQm9vbFhMa2xRUkE2QT0@best.privatedns.org:54897?type=ws&path=%2F&host=#shadowsocks-man-shadowsocks
+vless://fc95ec97-c8d9-445e-b461-f62ae54b80e2@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-man-httpupgrade
