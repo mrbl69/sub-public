@@ -1,5 +1,7 @@
 vless://0f6a3d58-31f8-4cfc-b7d6-420f81249a34@81.28.12.12:80?type=ws&path=%2F&host=torshonline.com&security=none#%D8%AA%D8%B1%D8%B4%20%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-baba1
 vless://e3c10f41-f0e3-45cd-8ae0-0671791ebc06@81.28.12.12:80?type=ws&path=%2F&host=iranian-style.com&security=none#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D9%86%20%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84-baba2
-vless://8d9c2840-a165-40b0-8dc7-a374ec4ff127@v4.mrbl69.dynv6.net:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=oaLwND9NAMfntVPtmSaG2H7sD6uQJFAKKE3fl8NWoSs&fp=firefox&sni=www.sourceforge.net&sid=c6&spx=%2F#Reality1-baba3
-vless://84f701da-598a-4d66-9321-c65cb4eb39ba@mrbl69.dynv6.net:52282?type=tcp&security=none#IPV6-baba4-ipv6
-vless://fd96e251-0ca1-4f6c-8069-681d17b8c85a@v4.mrbl69.dynv6.net:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-baba5-grpc
+vless://8d9c2840-a165-40b0-8dc7-a374ec4ff127@best.privatedns.org:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZugjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-baba3
+vless://84f701da-598a-4d66-9321-c65cb4eb39ba@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-baba4-ipv6
+vless://fd96e251-0ca1-4f6c-8069-681d17b8c85a@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-baba5-grpc
+
+
