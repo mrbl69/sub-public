@@ -16,6 +16,9 @@ vless://dff0351f-82bf-4fd7-b620-c626cb04686f@dl.cool-fezh.ir:21614?type=ws&path=
 vless://dff0351f-82bf-4fd7-b620-c626cb04686f@dl.mrshn.ir:21614?type=ws&path=%2F%3Fed%3D2048&host=&security=none#websocket-man-ws-dl.mrshn.ir
 vless://fc95ec97-c8d9-445e-b461-f62ae54b80e2@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-man-httpupgrade-best.privatedns.org
 vless://fc95ec97-c8d9-445e-b461-f62ae54b80e2@dl.mrshn.ir:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-man-httpupgrade-dl.mrshn.ir
+vless://fc95ec97-c8d9-445e-b461-f62ae54b80e2@mrbl69.indevs.in:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-man-httpupgrade-mrbl69.indevs.in
+vless://fc95ec97-c8d9-445e-b461-f62ae54b80e2@dl.panel.dns.dynamic.net:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-man-httpupgrade-dl.panel.dns.dynami
+vless://fc95ec97-c8d9-445e-b461-f62ae54b80e2@fakemci1.bot.nu:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-man-httpupgrade-fakemci1.bot.nu
 vless://e1683d91-adba-489a-aa4c-4896033b02ff@mrbl69.indevs.in:12689?type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=dl.mrbl69.ir#TCP-man-mrbl69.indevs.in
 vless://153d1a84-cf84-41d9-b945-529ce93b0178@mrbl69.indevs.in:33430?type=grpc&serviceName=watch.mrbl69.ir&authority=&mode=multi&security=none#GRPC-2-man-grpc2-mrbl69.indevs.in
 vless://153d1a84-cf84-41d9-b945-529ce93b0178@dl.mrshn.ir:33430?type=grpc&serviceName=watch.mrbl69.ir&authority=&mode=multi&security=none#GRPC-2-man-grpc2-dl.mrshn.ir
