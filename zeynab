@@ -3,5 +3,5 @@ vless://354dc144-074f-4fe1-9bce-5b1e74bb4fd2@81.28.12.12:80?type=ws&path=%2F&hos
 vless://4d1eaf71-d482-435b-99c5-605e1ca0482c@best.privatedns.org:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZugjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-zeynab3
 vless://44dd0109-5aa5-4157-9c7e-35f83a0929e4@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-zeynab4-ipv6
 vless://b96dbb62-8351-4024-a585-636ff31e61ad@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-zeynab5-grpc
-vless://f012e802-9c77-4f4d-8f96-6ef8098a19eb@zahedan.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=zahedan.dns-dynamic.net#zahedan.dns-zeynab-zahedan
+vless://f012e802-9c77-4f4d-8f96-6ef8098a19eb@dl.panel.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=none#zahedan.dns-zeynab-zahedan
 vless://726ec977-35d7-45ce-8157-d12a802b0659@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-zeynab-httpupgrade
