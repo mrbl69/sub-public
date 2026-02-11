@@ -2,7 +2,8 @@ vless://b1840f07-6100-4871-97df-0e37b9649867@dl.panel.dns-dynamic.net:46063?type
 vless://447e07da-1dcc-474d-927a-3dd837f6cb2d@81.28.12.12:80?type=ws&path=%2F&host=torshonline.com&security=none#%D8%AA%D8%B1%D8%B4%20%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-man2
 vless://457badc2-3f51-4171-9ac6-ec2830a46cb0@81.28.12.12:80?type=ws&path=%2F&host=iranian-style.com&security=none#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D9%86%20%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84-man3
 vless://2e7c3321-9718-4e74-be8f-50d26d517ba0@81.28.12.12:80?type=ws&path=%2F&host=gholibirahm.com&security=none#%D9%82%D9%84%DB%8C%20%D8%A8%DB%8C%D8%B1%D8%AD%D9%85-man4
-vless://48a7a9ed-a5ee-4e0c-b1ce-30d1da23d89d@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-man-IPV6-ipv6
+vless://48a7a9ed-a5ee-4e0c-b1ce-30d1da23d89d@[2a01:e5c0:6fbf::2]:8080?type=tcp&security=none#IPV6-man-IPV6-ipv6
+vless://48a7a9ed-a5ee-4e0c-b1ce-30d1da23d89d@dl.mrshn.ir:8080?type=tcp&security=none#IPV6-man-IPV6-dl.mrshn.ir
 vless://9e4e6c3b-a5cc-4e77-82fc-5fa99da7be56@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-man-grpc-grpc
 vless://dff0351f-82bf-4fd7-b620-c626cb04686f@best.privatedns.org:21614?type=ws&path=%2F&host=&security=none#websocket-man-ws
 vless://e1683d91-adba-489a-aa4c-4896033b02ff@dl.mrbl69.ir:12689?type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=dl.mrbl69.ir#TCP-man
@@ -22,3 +23,4 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJYSFRUUC1NQU4tOXhyNmkyc2MtZGwubXJibDY5Lmly
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJYSFRUUC1NQU4tOXhyNmkyc2MtZGwubXJzaG4uaXIiLAogICJhZGQiOiAiZGwubXJzaG4uaXIiLAogICJwb3J0IjogNTQ3MTUsCiAgImlkIjogIjQyOTU5YmJmLTljYmYtNDY4NS04Y2I1LWEwYTEyZDJhMzlhZiIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInhodHRwIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIi8/ZWQ9MjA0OCIsCiAgImhvc3QiOiAiZGwubXJibDY5LmlyIiwKICAidHlwZSI6ICJhdXRvIgp9
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJYSFRUUC1NQU4tOXhyNmkyc2MtZGwuY29vbC1mZXpoLmlyIiwKICAiYWRkIjogImRsLmNvb2wtZmV6aC5pciIsCiAgInBvcnQiOiA1NDcxNSwKICAiaWQiOiAiNDI5NTliYmYtOWNiZi00Njg1LThjYjUtYTBhMTJkMmEzOWFmIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAieGh0dHAiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLz9lZD0yMDQ4IiwKICAiaG9zdCI6ICJkbC5tcmJsNjkuaXIiLAogICJ0eXBlIjogImF1dG8iCn0=
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJYSFRUUC1NQU4tOXhyNmkyc2MtbXJibDY5LmluZGV2cy5pbiIsCiAgImFkZCI6ICJtcmJsNjkuaW5kZXZzLmluIiwKICAicG9ydCI6IDU0NzE1LAogICJpZCI6ICI0Mjk1OWJiZi05Y2JmLTQ2ODUtOGNiNS1hMGExMmQyYTM5YWYiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ4aHR0cCIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvP2VkPTIwNDgiLAogICJob3N0IjogImRsLm1yYmw2OS5pciIsCiAgInR5cGUiOiAiYXV0byIKfQ==
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy1ncHJjLW1hbi1tYW4tdm1lc3MiLAogICJhZGQiOiAiZGwubXJibDY5LmlyIiwKICAicG9ydCI6IDEzNDQ3LAogICJpZCI6ICI3NzgwYjg1NC03ZTNjLTRhMTAtYTNkNC0zNDJmMjA5M2M0ZjMiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJncnBjIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIiIsCiAgImF1dGhvcml0eSI6ICIiLAogICJ0eXBlIjogIm11bHRpIgp9
