@@ -5,3 +5,7 @@ vless://604c840a-68ee-427e-b2d4-aaaf30e5bd74@best.privatedns.org:39403?type=grpc
 vless://27ed567b-38c7-49ce-b817-46e33fdbd5e8@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-soli5-ipv6
 vless://7291a155-2dde-4bca-8ebb-921f66c80e01@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-soli6-grpc
 vless://25e2c41e-0394-449d-ba56-450fcab166e9@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-soli-httpupgrade
+vless://27ed567b-38c7-49ce-b817-46e33fdbd5e8@best.privatedns.org:8080?type=tcp&security=none#TCP(RAW)-soli5-best.privatedns.org
+vless://27ed567b-38c7-49ce-b817-46e33fdbd5e8@mrbl69.indevs.in:8080?type=tcp&security=none#TCP(RAW)-soli5-mrbl69.indevs.in
+vless://27ed567b-38c7-49ce-b817-46e33fdbd5e8@dl.panel.dns.dynamic.net:8080?type=tcp&security=none#TCP(RAW)-soli5-dl.panel.dns.dynami
+vless://27ed567b-38c7-49ce-b817-46e33fdbd5e8@fakemci1.bot.nu:8080?type=tcp&security=none#TCP(RAW)-soli5-fakemci1.bot.nu
