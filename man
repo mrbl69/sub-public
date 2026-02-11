@@ -8,3 +8,6 @@ vless://dff0351f-82bf-4fd7-b620-c626cb04686f@best.privatedns.org:21614?type=ws&p
 vless://e1683d91-adba-489a-aa4c-4896033b02ff@dl.mrbl69.ir:12689?type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=dl.mrbl69.ir#TCP-man
 vless://fc95ec97-c8d9-445e-b461-f62ae54b80e2@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-man-httpupgrade
 vless://bbf0148a-3632-4e84-b5d3-db55ad91b7df@best.privatedns.org:39403?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=0Zj3TtaoSTnm6afgHvWFhe4kc_xSewrwZugjO9XqBUY&fp=chrome&sni=www.sourceforge.net&sid=9f28a0295b132e19&spx=%2F#Reality1-man-Reality1
+vless://fb7ac950-bafe-4506-ace6-d0a2907f6eb9@v4.amoozeshgah-bargh.ir:13437?type=ws&path=%2F&host=&security=none#Arvan-man-Arvan-IPV4
+vless://fb7ac950-bafe-4506-ace6-d0a2907f6eb9@v6.amoozeshgah-bargh.ir:13437?type=ws&path=%2F&host=&security=none#Arvan-man-Arvan-IPV6
+vless://fb7ac950-bafe-4506-ace6-d0a2907f6eb9@arvan.amoozeshgah-bargh.ir:13437?type=ws&path=%2F&host=&security=none#Arvan-man-Arvan-v4
