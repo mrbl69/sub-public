@@ -5,3 +5,7 @@ vless://44dd0109-5aa5-4157-9c7e-35f83a0929e4@[2a01:e5c0:6fbf::2]:52282?type=tcp&
 vless://b96dbb62-8351-4024-a585-636ff31e61ad@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-zeynab5-grpc
 vless://f012e802-9c77-4f4d-8f96-6ef8098a19eb@dl.panel.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=none#zahedan.dns-zeynab-zahedan
 vless://726ec977-35d7-45ce-8157-d12a802b0659@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-zeynab-httpupgrade
+vless://df220080-7a70-4a08-8f63-5d41c676a6d0@best.privatedns.org:8080?type=tcp&security=none#TCP(RAW)-mori4-best.privatedns.org
+vless://df220080-7a70-4a08-8f63-5d41c676a6d0@mrbl69.indevs.in:8080?type=tcp&security=none#TCP(RAW)-mori4-mrbl69.indevs.in
+vless://df220080-7a70-4a08-8f63-5d41c676a6d0@dl.panel.dns.dynamic.net:8080?type=tcp&security=none#TCP(RAW)-mori4-dl.panel.dns.dynami
+vless://df220080-7a70-4a08-8f63-5d41c676a6d0@fakemci1.bot.nu:8080?type=tcp&security=none#TCP(RAW)-mori4-fakemci1.bot.nu
