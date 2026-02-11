@@ -4,3 +4,8 @@ vless://7a8abe32-7ec2-445e-ad58-3730303c562e@best.privatedns.org:39403?type=grpc
 vless://fca6c5a8-298f-409a-846b-75c9aa7c797a@[2a01:e5c0:6fbf::2]:52282?type=tcp&security=none#IPV6-madar-mori4-ipv6
 vless://17dfac83-da7f-48b2-ba00-c20ad317388c@fakemci1.bot.nu:17768?type=grpc&serviceName=&authority=&mode=multi&security=none#GRPC-madar-mori5-grpc
 vless://01b2e62c-ed76-4497-bd10-ce47577d48ca@best.privatedns.org:50501?type=httpupgrade&path=%2F&host=&security=none#HTTPUpgrade-madar-mori-httpupgrade
+vless://fca6c5a8-298f-409a-846b-75c9aa7c797a@best.privatedns.org:8080?type=tcp&security=none#TCP(RAW)-madar-mori4-best.privatedns.org
+vless://fca6c5a8-298f-409a-846b-75c9aa7c797a@mrbl69.indevs.in:8080?type=tcp&security=none#TCP(RAW)-madar-mori4-mrbl69.indevs.in
+vless://fca6c5a8-298f-409a-846b-75c9aa7c797a@dl.panel.dns.dynamic.net:8080?type=tcp&security=none#TCP(RAW)-madar-mori4-dl.panel.dns.dynami
+vless://fca6c5a8-298f-409a-846b-75c9aa7c797a@fakemci1.bot.nu:8080?type=tcp&security=none#TCP(RAW)-madar-mori4-fakemci1.bot.nu
+vless://16c147a5-f246-4a49-b00a-8de2a22173a6@dl.panel.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=none#zahedan.dns-mori-zahedan
