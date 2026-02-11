@@ -1,4 +1,4 @@
-vless://b1840f07-6100-4871-97df-0e37b9649867@zahedan.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=zahedan.dns-dynamic.net#zahedan.dns-man1
+vless://b1840f07-6100-4871-97df-0e37b9649867@dl.panel.dns-dynamic.net:46063?type=grpc&serviceName=&authority=&mode=multi&security=none#zahedan.dns-man1
 vless://447e07da-1dcc-474d-927a-3dd837f6cb2d@81.28.12.12:80?type=ws&path=%2F&host=torshonline.com&security=none#%D8%AA%D8%B1%D8%B4%20%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-man2
 vless://457badc2-3f51-4171-9ac6-ec2830a46cb0@81.28.12.12:80?type=ws&path=%2F&host=iranian-style.com&security=none#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D9%86%20%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84-man3
 vless://2e7c3321-9718-4e74-be8f-50d26d517ba0@81.28.12.12:80?type=ws&path=%2F&host=gholibirahm.com&security=none#%D9%82%D9%84%DB%8C%20%D8%A8%DB%8C%D8%B1%D8%AD%D9%85-man4
