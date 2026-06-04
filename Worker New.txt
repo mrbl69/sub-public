@@ -1,0 +1,16 @@
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@162.159.46.151:2083?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-1zxx87
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@104.19.52.182:2087?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-99aenc
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@198.41.223.47:2096?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-1twnhg
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@91.193.59.116:443?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-9a2qrn
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@104.17.220.120:2087?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-mb6ubh
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@198.41.208.230:8443?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-mwvd1d
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@104.19.32.33:443?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-cqgtx0
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@8.39.125.197:8443?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-tobphe
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@104.19.41.229:2087?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-iomil2
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@198.41.223.249:2053?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-gkx793
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@104.17.166.93:2096?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-44xl18
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@162.159.35.32:443?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-bz2u1d
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@104.17.162.55:2083?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-xc6zsp
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@172.66.2.249:2083?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-8nilsc
+vless://a536f21d-cb7d-4f87-8cd3-4e64b85ecd06@91.193.59.144:8443?encryption=none&security=tls&sni=black.mohamadrezashafeieniya.workers.dev&fp=chrome&type=ws&host=black.mohamadrezashafeieniya.workers.dev&path=%2F#Nova-hu2mga
+
